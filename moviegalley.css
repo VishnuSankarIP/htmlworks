@@ -156,3 +156,10 @@ a{
   h1{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
+
+  .heading1{
+  width: 100%;
+  height: 200px;
+  background-color: #272525;
+  }
+ 
